@@ -1,0 +1,21 @@
+import first from "./1/1";
+import ten from "./10/10";
+import second from "./2/2";
+import third from "./3/3";
+import fourth from "./4/4";
+import five from "./5/5";
+import six from "./6/6";
+import seven from "./7/7";
+import eight from "./8/8";
+import nine from "./9/9";
+
+// first();
+// second();
+// third();
+// fourth();
+// five();
+// six();
+// seven();
+// eight();
+// nine();
+ten();
